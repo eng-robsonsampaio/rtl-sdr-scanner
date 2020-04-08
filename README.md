@@ -2,7 +2,7 @@
 
 This project contains my rtl-sdr script written in `python3` to scan and record interesting frequencies. See video below for details.
 
-[![YouTube video](http://img.youtube.com/vi/TSDbcb7wSjs/0.jpg)](http://www.youtube.com/watch?v=TSDbcb7wSjs "YouTube video")
+[![YouTube video](http://img.youtube.com/vi/TSDbcb7wSjs/0.jpg)](http://www.youtube.com/watch?v=TSDbcb7wSjs?target=_blank "YouTube video")
 
 ## Prerequisites
 
